@@ -1,0 +1,17 @@
+body {background-image:url('http://nocens.ru/img/posts/2013-02/1360704733_4f9a435cccd9.jpg');}
+    body {background-color:powderblue; padding: 20px;}
+    h1 {text-align:center;}
+    h1 {color: green;}  
+    h1 {font-size:70px;}
+    p {color:blue; font size="8"; font face="arial"; align="right";
+    }
+    
+    p {font:20pt/10pt sans-serif; }
+   
+    p { font:bold italic 110% serif;} 
+
+   img{
+    float: left ;
+    padding: 10px, 10px, 10px, 10px;
+
+}
